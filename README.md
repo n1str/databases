@@ -87,7 +87,7 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/ваш-логин/название-репозитория.git
+   git clone https://github.com/n1str/databases.git
    ```
 
 2. Для каждой базы данных выполните следующие шаги:
